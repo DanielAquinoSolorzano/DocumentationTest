@@ -1,8 +1,6 @@
 # **Informe Trabajo Final**
 
-<p align="center">
-  <img src="https://marketingperu.beglobal.biz/logo-upc/" alt="Logo de la UPC"/>
-</p>
+![enter image description here](../img/upc-logo.png)
 
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
 
